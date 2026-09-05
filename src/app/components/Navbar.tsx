@@ -18,7 +18,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 backdrop-blur-lg bg-white/90 dark:bg-[#050814]/85 border-b border-slate-300 dark:border-blue-900/40 transition-colors duration-300">
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
         <a href="#hero" className="font-extrabold text-lg tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
-          <span>Sanjesh<span className="text-blue-600 dark:text-cyan-400">.Shakya0</span></span>
+          <span>Sanjesh<span className="text-blue-600 dark:text-cyan-400">.Shakya</span></span>
         </a>
 
         <nav className="hidden md:flex items-center gap-8 text-sm font-bold text-slate-800 dark:text-slate-200">
